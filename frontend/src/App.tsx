@@ -1,8 +1,10 @@
+import NotificationButton from "./components/NotificationButton"
+
 function App() {
 
   return (
     <div className="App">
-      
+      <NotificationButton />
     </div>
   )
 }
