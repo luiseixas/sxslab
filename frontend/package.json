@@ -20,13 +20,3 @@
     "vite": "^3.1.0"
   }
 }
-
-[Desktop Entry]
-Name=Spring Tool Suite
-Comment=Spring Tool Suite 4.15.3
-Exec=/home/luiseixas2/sts-4.15.3.RELEASE/SpringToolSuite4
-Icon=/home/luiseixas2/sts-4.15.3.RELEASE/icon.xpm
-StartupNotify=true
-Terminal=false
-Type=Application
-Categories=Development;IDE;Java;
